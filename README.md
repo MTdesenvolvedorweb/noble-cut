@@ -12,6 +12,24 @@ Este é o segundo projeto de portfólio da série de websites para pequenos neg�
 
 O objetivo é apresentar uma solução completa: identidade visual, estrutura de conteúdo, agendamento funcional e responsividade total, como se fosse entregue a um cliente real.
 
+## 🖥️ Preview
+
+### Página inicial
+
+![Noble Cut - Página inicial](screenshots/home.png)
+
+### Serviços
+
+![Noble Cut - Serviços](screenshots/servicos.png)
+
+### Profissionais
+
+![Noble Cut - Barbeiros](screenshots/barbeiros.png)
+
+🔗 **[Acessar o projeto online](https://mtdesenvolvedorweb.github.io/noble-cut/)**
+
+---
+
 ## Funcionalidades
 
 - Navbar fixa com menu mobile funcional (hambúrguer)
